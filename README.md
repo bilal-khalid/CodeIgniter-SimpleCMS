@@ -8,6 +8,8 @@ A simple content management system with categories, articles and users managemen
 2. [Bootstrap](https://getbootstrap.com/)
 3. [jQuery](https://jquery.com/)
 
-## Demo
+## Preview
 
-[![View Demo](view_demo_button.png)](https://bilalkhalid.com/projects/simplecms)
+Simple CMS | 
+------------ | 
+![](project-simple-cms.png) | 
